@@ -1,0 +1,9 @@
+{
+    "name": "dlang-cd1d",
+    "description": null,
+    "projects": {
+        "cd1d": "cd1d/dub.json"
+    },
+    "includePath": {
+    }
+}
