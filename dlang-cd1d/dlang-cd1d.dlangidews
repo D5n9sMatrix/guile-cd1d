@@ -1,8 +1,9 @@
 {
     "name": "dlang-cd1d",
-    "description": null,
+    "description": " / ",
     "projects": {
-        "cd1d": "cd1d/dub.json"
+        "cd1d": "cd1d/dub.json",
+        "k562": "../../guile-k562/k562/dub.json"
     },
     "includePath": {
     }

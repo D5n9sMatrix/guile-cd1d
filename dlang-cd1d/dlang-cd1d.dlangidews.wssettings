@@ -1,3 +1,13 @@
 {
-    "startupProject": "cd1d"
+    "startupProject": "cd1d",
+    "expandedItems": [
+        "/home/admin/dlang-project/guile-cd1d/dlang-cd1d/cd1d/dub.json",
+        "/home/admin/dlang-project/guile-cd1d/dlang-cd1d/cd1d/source/k562",
+        "/home/admin/dlang-project/guile-cd1d/dlang-cd1d/cd1d/source/b27",
+        "/home/admin/dlang-project/guile-cd1d/dlang-cd1d/cd1d/source",
+        "/home/admin/dlang-project/guile-cd1d/dlang-cd1d/cd1d/source/t392"
+    ],
+    "selectedWorkspaceItem": "/home/admin/dlang-project/guile-cd1d/dlang-cd1d/cd1d/source/app.d",
+    "files": [
+    ]
 }
